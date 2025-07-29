@@ -1,5 +1,3 @@
-> .[!TIP].
-> Personal README
 
 ## Hi there 👋
 
