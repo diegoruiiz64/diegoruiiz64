@@ -1,5 +1,6 @@
 > .[!TIP].
->> Personal README
+> Personal README
+
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Diego Alonso Ruiz</h1>
