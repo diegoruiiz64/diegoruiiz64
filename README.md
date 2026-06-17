@@ -62,6 +62,15 @@ I’m particularly interested in building backend systems that support:
 
 Because a good backend should not only return `200 OK`; it should also make debugging feel less like archaeology. 😄
 
+
+## 🧩 Frontend Experience
+
+Although my main focus is backend development and AI automation, I also have experience building web application features with **React, TypeScript, and Tailwind CSS**.
+
+Through **Acuaterra App / SENA**, I implemented features for user management, logs, and reports, integrated RESTful services and JWT authentication, and developed unit, integration, and end-to-end tests using **Vitest** and **Playwright**.
+
+This frontend background helps me better understand full application flows, API consumption, authentication, user experience, and end-to-end validation.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -81,7 +90,6 @@ Because a good backend should not only return `200 OK`; it should also make debu
   <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastMCP-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
@@ -89,8 +97,6 @@ Because a good backend should not only return `200 OK`; it should also make debu
 <p>
   <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GenAI%20Workflows-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Tool%20Orchestration-444444?style=for-the-badge" />
 </p>
@@ -105,12 +111,9 @@ Because a good backend should not only return `200 OK`; it should also make debu
 <p>
   <img src="https://img.shields.io/badge/Unit%20Testing-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Integration%20Testing-4682B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/E2E%20Testing-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coverage-228B22?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20LocalStack-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
